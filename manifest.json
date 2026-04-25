@@ -1,0 +1,20 @@
+{
+  "name": "EduPortal",
+  "short_name": "EduPortal",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a1628",
+  "theme_color": "#0a1628",
+  "icons": [
+    {
+      "src": "chatgpteduportal logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "chatgpteduportal logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
